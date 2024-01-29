@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_again_office"
+  site-url: "https://aloiswirth.github.io/nbdev_again_office"
+  description: "test of nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/aloiswirth/nbdev_again_office"
